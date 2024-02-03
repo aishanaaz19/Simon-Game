@@ -1,4 +1,7 @@
 # Simon-Game
+
+Visit: https://aishanaaz19.github.io/Simon-Game/
+
 Instructions to play the game
 1. Press any key to start the game.
 2. Click on the highlighted button. Remember the pattern of the highlighted button and always click in the correct pattern. For example, if red button highlights first and then the blue button, then click the red and then the blue and so on.
